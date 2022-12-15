@@ -2,7 +2,7 @@ using System;
 using System.Text;
 using UniRx;
 using UnityEngine;
-using Sonosthesia.MIDI;
+using Sonosthesia.AdaptiveMIDI;
 
 namespace Sonosthesia.RtMIDI
 {

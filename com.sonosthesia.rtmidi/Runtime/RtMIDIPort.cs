@@ -1,9 +1,8 @@
 using System;
-using Sonosthesia.MIDI.Messages;
+using Sonosthesia.AdaptiveMIDI.Messages;
 using UniRx;
 using UnityEngine;
 using RtMidiDll = RtMidi.Unmanaged;
-using Sonosthesia.MIDI;
 
 namespace Sonosthesia.RtMIDI
 {
